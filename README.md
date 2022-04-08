@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DNAMAY
+- 👋 Hey, I’m Priyanka!
 - 👀 I’m interested in exploring data science in Healthcare innovation.
 - 🌱 I’m currently learning Python and ML algorithms
 - 💞️ I’m looking to collaborate on Biomedical datasets and ML projects
